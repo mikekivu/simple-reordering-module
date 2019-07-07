@@ -57,7 +57,7 @@ foreach($product as $row)
 		<table id="tbl">
 			<tr>
 				<th>Title</th>
-				<th>Qty</th>
+				<th>Quantity</th>
 				<th>Reorder Level</th>
 			</tr>
 			<tbody id="tableBody">
